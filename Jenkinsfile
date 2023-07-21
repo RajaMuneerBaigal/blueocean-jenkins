@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'agent-vm-alpine'
+      label 'alpine-vm-agent'
     }
 
   }
